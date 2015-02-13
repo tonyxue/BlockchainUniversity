@@ -1,4 +1,4 @@
-# BlockchainUniversity
+# Blockchain University
 A distributed learning organization based on Blockchain's information architecture
 
 ## Introduction
