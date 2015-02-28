@@ -2,15 +2,15 @@
 
 ---
 layout: post
-title: "Weekly Summary for Ben"
-tags: [weekly, meeting, ben, koo, kotokje]
-description: Weekly meeting minutes from meeting with my supervisor.
-last_updated: 02/21/2015
+title: "2月27日首次会议记录"
+tags: [ 会议, ben, Echo, victorlby]
+description: 泊宇首次加入课题组的任务分配会.
+last_updated: 02/28/2015
 ---
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|Feb. 21, 2015| N/A | Online
+|Feb. 28, 2015| N/A | 盒子咖啡
 
 
 ----------
@@ -71,6 +71,6 @@ Happy Chinese New Year!
 
 **DIGITAL SIGNATURES**
 
-|**Ben** |**Echo**|
+|**victorlby** |**Echo**|
 | ------------- |----------------|
 |Signed | Signed
