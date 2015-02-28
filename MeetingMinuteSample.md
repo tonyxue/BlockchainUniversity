@@ -2,13 +2,13 @@
 
 ---
 layout: post
-title: "2月27日首次会议记录"
-tags: [ 会议, ben, Echo, victorlby]
-description: 泊宇首次加入课题组的任务分配会.
-last_updated: 02/28/2015
+题目: "2月27日首次会议记录"
+关键字: [ 会议, ben, Echo, victorlby]
+主题: 泊宇首次加入课题组的任务分配会.
+最新编辑时间: 02/28/2015
 ---
 
-|**Date** |**Meeting time**|**Meeting place**
+|**日期** |**时间**|**地点**
 | ------------- |:----------------:|:-------:
 |Feb. 28, 2015| N/A | 盒子咖啡
 
@@ -19,9 +19,13 @@ last_updated: 02/28/2015
 Meeting Minutes
 ------
 
- **STUDENT REPORT** 
+ **顾老师描述未来任务** 
 
- *10 Minutes: Report on the current progress regarding thesis, projects, etc.*
+ *10 分钟: 顾老师介绍任务背景.*
+
+1、我们现在已经有有了一部分套件
+2、
+
 
 Happy Chinese New Year!
 
