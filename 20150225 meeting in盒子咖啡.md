@@ -1,9 +1,13 @@
 ﻿
 
 layout: post 
+
 题目: "2月25日会议记录" 
+
 关键字: [ 会议, ben, Echo] 
+
 主题: Toyhouse2015羊年首次工作会议.
+
 最新编辑时间: 03/1/2015
 
 |**日期** |**时间**|**地点**
@@ -48,7 +52,7 @@ Meeting Minutes
 - 中国工程院
 - 教育部基础教育课标组，
 - 中国出版传媒集团，
-- CEE/RSI, JOANN P. DIGENNARO
+- CEE/RSI, Joann P. DiGennaro
 - iPodia, Steve Lu
 - Tsai Weide（大数据专家、IEEE主席、亚利桑那大学教授、千人计划、北航教授）
 - Ray Dougherty（语言学家、纽约大学教授）
@@ -66,6 +70,8 @@ Meeting Minutes
 - 王建明（软件学院院长）
 - Jane Li
 - 王殿军（清华附中校长）
+- 谢小川（十一学校通用技术课老师）
+- 李作林（人大附中通用技术课老师）
 
 --------------------------
 **工具**
