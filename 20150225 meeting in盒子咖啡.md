@@ -1,10 +1,18 @@
---- Demo File
 
-layout: post 题目: "2月25日首次会议记录" 关键字: [ 会议, ben, Echo] 主题: Toyhouse2015羊年首次工作会议.
-最新编辑时间: 02/28/2015
-日期 	时间 	地点
-Feb. 25, 2015 	N/A 	盒子咖啡
+
+layout: post 
+题目: "2月25日会议记录" 
+关键字: [ 会议, ben, Echo] 
+主题: Toyhouse2015羊年首次工作会议.
+最新编辑时间: 03/1/2015
+
+|**日期** |**时间**|**地点**
+| ------------- |:----------------:|:-------:
+|Feb. 25, 2015| N/A | 盒子咖啡
+
 Meeting Minutes
+------
+
 
 **战略**
 ---
@@ -92,15 +100,24 @@ Jane Li
 工具
 ---
 git
+
 solr/lucene
+
 teambition
+
 mathematica
+
 factom
+
 autocad
+
 lego……
 
 
 
-DIGITAL SIGNATURES
-victorlby 	Echo
-Signed 	Signed
+**DIGITAL SIGNATURES**
+
+|**Ben** |**Echo**|
+| ------------- |----------------|
+|Unsigned | Signed
+
