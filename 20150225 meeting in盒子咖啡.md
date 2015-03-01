@@ -45,73 +45,52 @@ Meeting Minutes
 
 - 中国职业教育国际合作联盟
 
--国际创客教育基地联盟
+- 国际创客教育基地联盟
 ……
 
 ---------------------------------------------------------------------------------
 资源
 ---
--清华大学
-
--联合国教科文组织（产学结合教席）
--中国工程院
-
--教育部基础教育课标组，
-
--中国出版传媒集团，
-
--CEE/RSI, JOANN P. DIGENNARO
-
--iPodia, Steve Lu
-
--Tsai Weide（大数据专家、IEEE主席、亚利桑那大学教授、千人计划、北航教授）
-
--Ray Dougherty（语言学家、纽约大学教授）
-
--Stephen Wolfram
-
--Mitch Altman
-
--Github
-
--Gitcafe
-
--韩锋（区块链专家）
-
--罗佳（中经网总经理、北斗系统负责人）
-
--赵峰（微软亚洲研究院常务副院长）
-
--帅天龙（法学博士、资本律师、  竞天公诚）
-
--卢达溶
-
--Prof. Clawley 
-
--胡建波（西安欧亚学院校长）
-
--王建明（软件学院院长）
-
--Jane Li
-
--王殿军（清华附中校长）
+- 清华大学
+- 联合国教科文组织（产学结合教席）
+- 中国工程院
+- 教育部基础教育课标组，
+- 中国出版传媒集团，
+- CEE/RSI, JOANN P. DIGENNARO
+- iPodia, Steve Lu
+- Tsai Weide（大数据专家、IEEE主席、亚利桑那大学教授、千人计划、北航教授）
+- Ray Dougherty（语言学家、纽约大学教授）
+- Stephen Wolfram
+- Mitch Altman
+- Github
+- Gitcafe
+- 韩锋（区块链专家）
+- 罗佳（中经网总经理、北斗系统负责人）
+- 赵峰（微软亚洲研究院常务副院长）
+- 帅天龙（法学博士、资本律师、  竞天公诚）
+- 卢达溶
+- Prof. Clawley 
+- 胡建波（西安欧亚学院校长）
+- 王建明（软件学院院长）
+- Jane Li
+- 王殿军（清华附中校长）
 
 --------------------------
 工具
 ---
--git
+- git
 
--solr/lucene
+- Solr/Lucene
 
--teambition
+- Teambition
 
--mathematica
+- Mathematica
 
--factom
+- Factom
 
--autocad
+- AutoCad
 
--lego……
+- lego……
 
 
 
