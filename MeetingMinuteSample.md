@@ -24,66 +24,26 @@ Meeting Minutes
  *10 分钟: 顾老师介绍任务背景.*
 
 - 现有的资源
-         - 过去几届的极限学习组织经验
-         - 部分乐高套件（倒立摆等）
-         - 上届学生的杂志
+         - 过去几届的极限学习组织经验。
+         - 部分乐高套件（倒立摆等）。
+         - 上届学生的杂志。
 
 - 存在的问题
-         - 任务方执行任务过程比较拖沓，缺乏对比性
-         - 任务更偏重於机械结构的设计安装，缺乏配套策划与的展示，如杂志等
+         - 任务方执行任务过程比较拖沓，缺乏对比性。
+         - 任务更偏重於机械结构的设计安装，缺乏配套策划与的展示，如杂志等。
          - 任务的设计缺乏“故事”。
 
 - 未来可能的解决手段
-         - 加入不同的任务方团队，引入竞争，并且制定评价标准，增强对比性，激励任务方团队向前发展
+         - 加入不同的任务方团队，引入竞争，并且制定评价标准，增强对比性，激励任务方团队向前发展。
          - 设置多个情境，改变由挑战方设定任务目标的模式，达到挑战方设计情景和资源，由任务方整合资源解决问题的效果。
-         - 
+         - 探索增加任务中可用的资源（摄影、机械套件、编辑软件等），并引导任务方利用这些资源完成任务，形成更有机的、更完整的项目成果。
+         
 - 泊宇要做的事情
-
-
-Happy Chinese New Year!
-
- - XLP Evaluation Framework
-	 - I have worked with Ben and Prof. Tsai and we finalized the paper. It was successfully submitted to IEEE by Tuesday. 
- - Other
-	- I read Social Physics and it does cover many similar topics related to XLP, emphasizing on collective learning and mentioning markets becoming exchanges.  I think it provides a good reference and in the context of emails Ben sent from NYC, I think there are many potentials to bring the XLP design on a new level. Regarding Prof. Tsai's questions about communication patterns during XLP, I think it is relatively difficult for me to identify those, since most communication between team members took place offline and my Chinese skills are not sufficient to do qualitative analysis of learning blogs and meeting minutes to identify such patterns.
-
-
- 
-
-**FEEDBACK **
- 
- *10 Minutes: Professor's feedback regarding student's current progress.*
- 
-
-
-**OPEN BUSINESS**
-
-*10 Minutes: Open discussion of current and future business*
-
-- Travel
-	- Past few days I have been travelling in China. I will be in Tianjin this weekend and will come back to Beijing on Feb. 24th. 
-
-**COMMITMENTS**
-
-*5 Minutes: Plans and schedules for future work and follow-ups*
+         - 对套件，杂志，以及极限学习的任务模式进行熟悉，并进一步进行尝试，探索形成一套新的任务模式。
 
 
 
-***Kuba***:
 
-- Discuss with Ben and Prof. Tsai the possible upcoming paper for IEEE journal
-- Communicate with Woody regarding preparation for future XLP design, workflows and data collection strategies.
-- Work with Prof. Tsai regarding the mathematical model of the game theory of moving targets for XLP
-
-***Ben***:
-
-- This is an effective, yet succinct summary. However, next time, when you plan to have a long vacation, please send me an email ahead of time. This is the winter vacation, so that your absence is understood. In anycase, close communication never hurts.
-- We should start writing the next paper. On top of the IEEE Transaction on Education, we should also identify other publications for potential publications.
-- With Social Physics, we can leverage a lot of terminologies Pentland used for analysis. A key term is "Idea Flow". We can study its math and come up with a way to use Git data to extract Idea Flow.
-- Prof. Tsai has been very instrumental in writing these papers. The Game Theory model can be integrated with Idea Flow. This should be the main focus of discussion. Idea Flow metrics can provide the dynamics of the moving targets or what Ideas caused targets to move.
-
-
-----------
 
 
 **DIGITAL SIGNATURES**
